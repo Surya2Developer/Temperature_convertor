@@ -5,7 +5,7 @@ Screenshot of Temperature Convertor
 
 Conversion of room temperature to other parameters:
 
-![Screenshot (13143)](https://user-images.githubusercontent.com/93299213/177536797-db6895ec-9d56-4a8f-8cf0-bce90bf0e43f.png)
+![Screenshot (13142)](https://user-images.githubusercontent.com/93299213/177536765-a6d36f65-9731-43d9-a577-dfba83a6d311.png)
 
 
 Conversion of body temperature to other parameters:
